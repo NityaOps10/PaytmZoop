@@ -1,0 +1,51 @@
+bill_id,customer_name,city,product_category,quantity,total_amount,payment_method,store_type,visit_date
+1001,Rahul Sharma,Delhi,Grocery,5,850,UPI,Supermarket,05-01-2025
+1002,Priya Verma,Mumbai,Electronics,1,32000,Credit Card,Mall Store,05-01-2025
+1003,Amit Patel,Ahmedabad,Clothing,3,4500,UPI,Mall Store,06-01-2025
+1004,Neha Singh,Lucknow,Grocery,8,1200,Cash,Supermarket,06-01-2025
+1005,Rohit Kumar,Patna,Stationery,10,600,UPI,Local Store,06-01-2025
+1006,Anjali Mehta,Pune,Clothing,2,2800,Debit Card,Mall Store,07-01-2025
+1007,Suresh Yadav,Jaipur,Electronics,1,18000,Credit Card,Mall Store,07-01-2025
+1008,Kavita Joshi,Indore,Grocery,6,900,UPI,Supermarket,07-01-2025
+1009,Vikas Mishra,Bhopal,Grocery,4,700,Cash,Local Store,08-01-2025
+1010,Pooja Agarwal,Kolkata,Clothing,5,6500,UPI,Mall Store,08-01-2025
+1011,Manish Gupta,Kanpur,Electronics,1,25000,Credit Card,Mall Store,08-01-2025
+1012,Shalini Jain,Udaipur,Grocery,7,1100,UPI,Supermarket,09-01-2025
+1013,Deepak Verma,Noida,Stationery,6,420,Cash,Local Store,09-01-2025
+1014,Ritu Saxena,Agra,Clothing,4,5200,Debit Card,Mall Store,09-01-2025
+1015,Nitin Malhotra,Gurgaon,Electronics,2,40000,Credit Card,Mall Store,10-01-2025
+1016,Sonal Choudhary,Jodhpur,Grocery,3,500,Cash,Local Store,10-01-2025
+1017,Akash Tiwari,Rewa,Grocery,9,1350,UPI,Supermarket,10-01-2025
+1018,Meena Kapoor,Chandigarh,Clothing,2,3000,Debit Card,Mall Store,11-01-2025
+1019,Kunal Bansal,Faridabad,Electronics,1,15000,Credit Card,Mall Store,11-01-2025
+1020,Swati Kulkarni,Nagpur,Stationery,12,720,UPI,Local Store,11-01-2025
+1021,Rakesh Pandey,Varanasi,Grocery,6,950,Cash,Supermarket,12-01-2025
+1022,Isha Malviya,Ratlam,Clothing,3,4100,UPI,Mall Store,12-01-2025
+1023,Harsh Vardhan,Meerut,Electronics,1,22000,Credit Card,Mall Store,12-01-2025
+1024,Namita Arora,Amritsar,Grocery,5,780,UPI,Supermarket,13-01-2025
+1025,Sachin Deshmukh,Nashik,Stationery,8,560,Cash,Local Store,13-01-2025
+1026,Preeti Kulkarni,Solapur,Grocery,7,1050,UPI,Supermarket,13-01-2025
+1027,Mohit Jain,Kota,Clothing,4,4800,Debit Card,Mall Store,14-01-2025
+1028,Alok Srivastava,Prayagraj,Electronics,1,28000,Credit Card,Mall Store,14-01-2025
+1029,Sunita Rani,Hisar,Grocery,6,900,Cash,Supermarket,14-01-2025
+1030,Vinayak Patil,Kolhapur,Clothing,3,3900,UPI,Mall Store,15-01-2025
+1031,Pankaj Sharma,Rohtak,Stationery,9,540,Cash,Local Store,15-01-2025
+1032,Ayesha Khan,Bhopal,Grocery,4,650,UPI,Supermarket,15-01-2025
+1033,Tushar Goyal,Panipat,Electronics,2,36000,Credit Card,Mall Store,16-01-2025
+1034,Nisha Bajaj,Ludhiana,Clothing,5,7200,Debit Card,Mall Store,16-01-2025
+1035,Sandeep Rathore,Gwalior,Grocery,6,980,UPI,Supermarket,16-01-2025
+1036,Rupal Shah,Surat,Clothing,4,5600,UPI,Mall Store,17-01-2025
+1037,Ajay Thakur,Bilaspur,Stationery,11,660,Cash,Local Store,17-01-2025
+1038,Monika Arora,Panchkula,Grocery,5,820,UPI,Supermarket,17-01-2025
+1039,Prakash Nair,Kochi,Electronics,1,26000,Credit Card,Mall Store,18-01-2025
+1040,Lata Menon,Trivandrum,Clothing,3,4300,Debit Card,Mall Store,18-01-2025
+1041,Naveen Reddy,Hyderabad,Grocery,7,1150,UPI,Supermarket,18-01-2025
+1042,Karthik Iyer,Chennai,Electronics,1,30000,Credit Card,Mall Store,19-01-2025
+1043,Sneha Kulkarni,Satara,Stationery,10,600,Cash,Local Store,19-01-2025
+1044,Ramesh Pawar,Sangli,Grocery,6,900,UPI,Supermarket,19-01-2025
+1045,Divya Joshi,Dehradun,Clothing,4,5100,Debit Card,Mall Store,20-01-2025
+1046,Arvind Mishra,Gorakhpur,Grocery,8,1300,Cash,Supermarket,20-01-2025
+1047,Bhavesh Modi,Rajkot,Electronics,1,24000,Credit Card,Mall Store,20-01-2025
+1048,Nandini Rao,Bengaluru,Clothing,5,6800,UPI,Mall Store,21-01-2025
+1049,Sanjay Shetty,Mangalore,Grocery,6,950,Cash,Supermarket,21-01-2025
+1050,Pritam Das,Siliguri,Stationery,7,420,UPI,Local Store,21-01-2025
